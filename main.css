@@ -1,0 +1,93 @@
+header{
+    background-color:antiquewhite;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    }
+.midden{
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    background-color:aliceblue;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    }
+.test{
+    margin-left: auto;
+    margin-right: 1px;
+}
+table.center{
+        margin-left: auto;
+        margin-right: auto;
+    }
+#een{
+        background-color:#FF33FF;
+        width: 150px;
+        text-align: center;
+    }
+#twee{
+        background-color: #f3c;
+        display: flex;
+    }
+#drie{
+        background-color: #f39;
+        width: 150px;
+        text-align: center;
+    }
+#vier{
+        background-color: #f36;
+    }
+#vijf{
+        background-color: #f33;
+        width: 150px;
+        text-align: center;
+    }
+#zes{
+        background-color: #f30;
+    }
+#zeven{
+        background-color: #CC33FF;
+        width: 150px;
+        text-align: center;
+    }
+#acht{
+        background-color: #c3c;
+    }
+#negen{
+        background-color: #c39;
+        width: 150px;
+        text-align: center;
+    }
+#tien{
+        background-color: #c36;
+    }
+#elf{
+        background-color: #c33;
+        width: 150px;
+        text-align: center;
+    }
+#twaalf{
+        background-color: #c30;
+    }
+#dertien{
+        background-color: #93f;
+        width: 150px;
+        text-align: center;
+    }
+#veertien{
+        background-color: #93c;
+    }
+#vijftien{
+        background-color: #939;
+        width: 150px;
+        text-align: center;
+    }
+#zestien{
+        background-color: #936;
+    }
