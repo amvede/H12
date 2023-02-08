@@ -37,6 +37,7 @@ table.center{
     }
 #drie{
         background-color: #f39;
+        color: #c3c
         width: 150px;
         text-align: center;
     }
@@ -45,6 +46,7 @@ table.center{
     }
 #vijf{
         background-color: #f33;
+        color: #CC33FF
         width: 150px;
         text-align: center;
     }
@@ -53,6 +55,7 @@ table.center{
     }
 #zeven{
         background-color: #CC33FF;
+        color: #FF33FF
         width: 150px;
         text-align: center;
     }
@@ -61,6 +64,7 @@ table.center{
     }
 #negen{
         background-color: #c39;
+        color: #f39
         width: 150px;
         text-align: center;
     }
@@ -69,6 +73,7 @@ table.center{
     }
 #elf{
         background-color: #c33;
+        color: #f36
         width: 150px;
         text-align: center;
     }
@@ -77,6 +82,7 @@ table.center{
     }
 #dertien{
         background-color: #93f;
+        color: #f33
         width: 150px;
         text-align: center;
     }
@@ -85,6 +91,7 @@ table.center{
     }
 #vijftien{
         background-color: #939;
+        color: #CC33FF;
         width: 150px;
         text-align: center;
     }
